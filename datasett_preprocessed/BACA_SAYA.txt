@@ -1,0 +1,5 @@
+Dataset tidak disertakan karena ukurannya sekitar 400 MB.
+Unduh datasett_preprocessed.zip dari tautan OneDrive kelompok: https://mikroskilacid-my.sharepoint.com/:u:/g/personal/joel_adrianus_students_mikroskil_ac_id/IQDb9AFTn874SppoBWDoRDFRAWZHLgd_990oZ19dX5_R-Z4?e=SxfCXK
+lalu ekstrak sehingga folder ini berisi 10 folder kelas:
+cardboard, Food Organics, glass, metal, Miscellaneous Trash, paper, Plastic,
+Textile Trash, trash, Vegetation.
